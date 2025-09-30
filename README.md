@@ -1,17 +1,21 @@
 # TÍTULO DO PROJETO
 
 `CAMPUS/UNIDADE`
+Coração Eucaristico
 
 `CURSO`
+Engenharia da Computação
 
 `SEMESTRE`
+Primeiro
 
 `DISCIPLINA`
+Laboracotio de Introdução a computação
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Gabriel Maia Simões de Matos
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
