@@ -12,14 +12,14 @@
 ## Integrantes
 
 * Gabriel Maia Simões de Matos
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ana Clara Barboza da Silva 
+* Eduarda Katherine Dutra Teixeira
+* Fernanda Ayrosa Menezes Silva
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marta Dias Moreira Noronha
 
 ## Resumo
 
