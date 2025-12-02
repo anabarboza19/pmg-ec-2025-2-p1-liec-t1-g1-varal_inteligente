@@ -1,5 +1,5 @@
 
-## Instruções de utilização
+### Instruções de utilização
 
 O Varal Inteligente foi desenvolvido para oferecer praticidade, segurança e eficiência no processo de secagem de roupas. Ele realiza o recolhimento automático sempre que detecta chuva ou fumaça e também pode ser controlado manualmente através do aplicativo.
 
