@@ -1,12 +1,19 @@
-# TÍTULO DO PROJETO
+# Varal Inteligente
 
 `CAMPUS/UNIDADE`
+Pontifícia Universidade Católica de Minas Gerais
+Coração Eucarístico 
 
 `CURSO`
+Engenharia de Computação
 
-`SEMESTRE`
+`2° SEMESTRE 2025`
+
 
 `DISCIPLINA`
+ * Laboratório de Introdução à Engenharia de Computação
+ * Algoritmos e Estruturas de Dados I
+ * Introdução à Computação
 
 
 ## Integrantes
@@ -15,14 +22,13 @@
 * Ana Clara Barboza da Silva 
 * Eduarda Katherine Dutra Teixeira
 * Fernanda Ayrosa Menezes Silva
-* Nome completo do aluno 5
+* Bolivar Mauricio Gomes Siqueira
 
 ## Orientador
 
 * Marta Dias Moreira Noronha
 
 ## Resumo
-
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 # Código (do arduino ou esp32)
