@@ -29,7 +29,7 @@ Engenharia de Computação
 * Marta Dias Moreira Noronha
 
 ## Resumo
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto consiste no desenvolvimento de um varal inteligente, acionado através do aplicativo conectado ao Arduino, que se fecha automaticamente em contato com chuva (umidade) ou gás. Sensores de chuva e gás monitoram o ambiente, e quando um dos dois é detectado, o Arduino ativa um motor que recolhe o varal, protegendo as roupas. Buscamos uma solução prática e eficiente para evitar que as roupas sequem molhadas ou contaminadas, agregando valor e comodidade ao cotidiano.
 
 # Código (do arduino ou esp32)
 
